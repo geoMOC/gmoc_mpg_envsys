@@ -24,7 +24,7 @@ baseurl: "/data/UNIMR/lm_data/lm_2092236/"
 
 # Serve on GitHub
 #url: https://geomoer.github.io/
-#baseurl: "/moer-mpg-gis/"
+#baseurl: "/moer-mpg-envsys/"
 
 ##### Title ###################################################################
 title: Lab of Environmental Informatics
@@ -131,7 +131,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Spatial Modelling  Concepts"
+      category: "unit01"
       tags: "Unit|01"
       layout: single
       sidebar:
@@ -143,7 +143,8 @@ defaults:
       path: ""
       type: unit02
     values:
-      category: "Asking Questions"
+      category: "Unit2
+      "
       tags: "Unit|02"
       layout: single
       sidebar:
@@ -153,7 +154,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "Project 1: Touching the tree"
+      category: "Unit3"
       tags: "Unit|03"
       layout: single
       sidebar:
@@ -163,7 +164,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "Project 2: Competition and Biodiversity"
+      category: "unit4"
       tags: "Unit|04"
       layout: single
       sidebar:
